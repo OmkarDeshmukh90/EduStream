@@ -1,5 +1,4 @@
 # EduStream
-# EduStream
 This repository contains code for a College Recommendation System built using Python and Streamlit. The system helps students find colleges based on their marks and preferred branch of study.
 
 ## Overview
