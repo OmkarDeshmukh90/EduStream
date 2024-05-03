@@ -23,13 +23,13 @@ Make sure you have the following dependencies installed:
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/college-recommendation-system.git
+git clone https://github.com/OmkarDeshmukh90/EduStream.git
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd college-recommendation-system
+cd EduStream
 ```
 
 3. Install the dependencies:
@@ -41,7 +41,7 @@ pip install -r requirements.txt
 4. Run the application:
 
 ```bash
-streamlit run app.py
+streamlit run College_recommender.py
 ```
 
 5. Access the application through your web browser at `http://localhost:8501`.
