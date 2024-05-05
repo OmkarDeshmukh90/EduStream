@@ -58,7 +58,7 @@ def recommend_colleges(data, user_marks, user_branch):
     return recommended_colleges
 
 def main():
-    st.title("College Recommender")
+    st.title("EduStream")
 
     # Initialize session state variables
     if 'authenticated' not in st.session_state:
